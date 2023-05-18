@@ -28,5 +28,5 @@ Feel free to explore my projects on [GitHub](https://github.com/malykasardar)!
 
 I enjoy connecting with fellow developers, sharing knowledge, and collaborating on interesting projects. Feel free to reach out to me on:
 
-- LinkedIn: [Malyka Sardar](https://www.linkedin.com/in/malyka-sardar-6299441a2/))
+- LinkedIn: [Malyka Sardar](https://www.linkedin.com/in/malyka-sardar-6299441a2/)
 - Email: malyka.sardar@ontariotechu.net
