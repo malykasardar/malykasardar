@@ -10,14 +10,16 @@ Welcome to my GitHub profile! I'm Malyka Sardar, a 3rd year Software Engineering
 ## 💼 Professional Background
 
 - Currently pursuing a Bachelor's degree in Software Engineering at Ontario Tech University.
+- Activley looking for employment opportunities for April 2024 - September 2024
 
 ## 🌱 What I'm currently learning
 
 I believe in lifelong learning and continuous improvement. Some of the technologies and concepts I'm currently exploring:
-
-- Python frameworks like Django and Flask.
+- Web Development: Html, CSS, Javascript, PHP, SQL
 - Front-end development with React.js.
-- IOS Mobile Application Development 
+- Software Architechture & Modeling
+- Cross platform development using Swing Framework
+- IOS Mobile Application Development using Swift (Xcode)
 
 
 ## 🚀 Projects
