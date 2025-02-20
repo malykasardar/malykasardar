@@ -1,4 +1,4 @@
-## I'm Malyka Sardar, a 4th-year Software Engineering student at Ontario Tech University with a passion for cloud computing, distributed systems, and AI-driven solutions. I enjoy building scalable software and optimizing data-driven applications for high performance.
+I'm Malyka, a 4th-year Software Engineering student at Ontario Tech University with a passion for cloud computing, distributed systems, and AI-driven solutions. I enjoy building scalable software and optimizing data-driven applications for high performance.
 
 ## 💼 Professional Background
 - Software Engineering Student at Ontario Tech University (April 2027).
