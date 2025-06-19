@@ -1,32 +1,52 @@
-# 🚀 Malyka Sardar | Software Engineer in the Making  
+# 🚀 Malyka Sardar | 4th year Software Engineering Student
 
-👋 Hey there! I'm **Malyka**, a 4th-year Software Engineering student at **Ontario Tech University**, driven by a passion for **cloud computing, distributed systems, and AI-powered solutions**. I love tackling complex engineering challenges, optimizing large-scale data systems, and bringing innovative ideas to life.  
+👋 Hi there! I'm Malyka, a 4th-year Software Engineering student at Ontario Tech University with a strong interest in full-stack development, systems programming, and cloud technologies.
 
-## 💡 About Me  
-- 🎓 **Software Engineering Student** (Graduating April 2027)  
-- 🔎 **Actively Seeking a 12-Month Internship/Co-op** (Starting May 2025)  
-- 🛠️ **Quality Assurance Specialist @ Arcelius Consulting Inc.**  
-   - Automated testing, **Salesforce Marketing Cloud**, DevOps practices  
+I'm passionate about building clean interfaces, working with low-level systems, and solving real-world problems through thoughtful engineering.
 
-## 🔥 What I'm Learning & Exploring  
-I'm constantly upskilling and diving deeper into:  
-- **Cloud & DevOps:** AWS, Kubernetes, Snowflake, Apache Kafka  
-- **AI & Data Engineering:** ML-driven query optimization, distributed data pipelines  
-- **Backend Development:** Scalable microservices, serverless architectures  
+---
 
-## 🚀 Highlighted Projects  
-### 🔹 **Scalable Cloud Data Aggregator** *(Ongoing)*  
-- Architected a **real-time data ingestion pipeline** with **Kafka & AWS Lambda**  
-- Optimized ETL processes in **Snowflake**, reducing processing time by **35%**  
-- **Kubernetes-deployed**, ensuring **high availability & scalability**  
+## 💻 Current Focus
 
-### 🔹 **AI-Driven Database Performance Analyzer**  
-- Engineered an **AI-powered SQL optimizer**, boosting query execution time by **40%**  
-- Integrated **TensorFlow models** with **IBM Db2** for **real-time query tuning**  
-- Built a **data-driven dashboard** for comprehensive performance analysis  
+- 🔧 **Backend Development**: Python (FastAPI), Java, Bash, C
+- 🌐 **Frontend**: JavaScript, HTML/CSS
+- ☁️ **Cloud & DevOps**: Learning AWS, Docker, GitHub Actions
+- 🧠 **Systems**: Simulating schedulers, process managers, and system monitors in C and Bash
 
-## 🌎 Let's Connect & Collaborate!  
-I'm open to **collaborations, internships, and discussions** around **cloud solutions, AI-driven applications, and scalable systems**. Let's innovate together!  
+---
 
-📌 **LinkedIn:** [Malyka Sardar](#)  
-📩 **Email:** malyka.sardar@ontariotechu.net  
+## 🌟 Highlight Projects
+
+### 🔹 [ClientWebAPP – Ghanada Inc](https://github.com/malykasardar/ClientWebAPP-GhanadaInc)
+Custom business website deployed with Netlify & GoDaddy
+
+### 🔹 [cloudbug-tracker](https://github.com/malykasardar/cloudbug-tracker-)
+Bug-tracking app built using FastAPI and PostgreSQL
+
+### 🔹 [Roam Inn Web App](https://github.com/malykasardar/Roam-Inn-WebApp-)
+Hotel booking interface with JavaScript frontend
+
+### 🔹 [Systems Programming Toolkit](https://github.com/malykasardar/Systems-Programming-Final)
+Includes log monitoring, memory tracking, and process control tools in C and Bash
+
+### 🔹 [Warcards Swift Game](https://github.com/malykasardar/WarcardsSwift)
+Turn-based card game developed in Swift and Xcode
+
+---
+
+## 📚 Currently Learning
+
+- Cloud infrastructure with AWS & Docker
+- System design and backend scalability
+- Automation and CI/CD pipelines
+- Robotics with mBot Neo & CyberPi
+
+---
+
+## 📬 Let’s Connect
+
+- 📩 **Email**: malyka.sardar@ontariotechu.net  
+- 💼 **LinkedIn**: [Malyka Sardar](https://linkedin.com/in/malykasardar)  
+- 🧠 **Portfolio**: [Portfolio](https://malykasardar.netlify.app/)
+
+Thanks for stopping by! 🌱
