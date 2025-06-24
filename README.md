@@ -1,6 +1,6 @@
 # 🚀 Malyka Sardar | 4th-Year Software Engineering Student
 
-👋 Hi there! I'm Malyka — a final-year Software Engineering student at Ontario Tech University in Canada. I specialize in full-stack development, systems programming, and cloud technologies.
+I'm Malyka! A final-year Software Engineering student at Ontario Tech University in Canada. I specialize in full-stack development, systems programming, and cloud technologies.
 
 As a creative at heart, I love the freedom to design custom UX/UI experiences tailored to the applications I engineer. I enjoy solving real-world problems through thoughtful engineering — from building clean interfaces to working with low-level system tools.
 
