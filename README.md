@@ -35,7 +35,7 @@ Contributed to a modular ROS-based autonomous vehicle stack. Worked across senso
 
 AI-powered job application agent built with n8n and LLM integrations. Automates discovery, filtering, and outreach steps in the job search pipeline.
 
-### [ClientWebAPP — Ghanada Inc](https://github.com/malykasardar/ClientWebAPP-GhanadaInc)
+### [Landing Page — Ghanada Inc](https://github.com/malykasardar/ClientWebAPP-GhanadaInc)
 
 Production business website deployed via Netlify and GoDaddy for a real client.
 
