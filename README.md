@@ -1,58 +1,66 @@
-# 👩‍💻 Malyka Sardar | 4th-Year Software Engineer & Co-op Student @ Ontario Tech University 🇨🇦
+# Malyka Sardar | Software Engineer
 
-Hi, I'm **Malyka** — a Canadian software engineer who can architect solutions, not just write code. I specialize in **full-stack development**, **systems programming**, and **cloud technologies**.
+Software engineer with a background in systems programming, backend development, and autonomous systems. I build things that automate, monitor, and scale. From Linux monitoring services to ROS-based vehicle stacks to AI-powered workflow agents.
 
-As a creative at heart, I love designing custom UX/UI experiences that bring my technical builds to life. I thrive on solving real-world problems through thoughtful engineering — from clean frontends to low-level system tools.
+Based in Toronto/Durham, ON. Open to Software Engineering, DevOps, Cloud, and Automation roles.
 
-Recently, I’ve been turning my personal projects into a small business — building and offering custom websites, applications, and tools that automate everyday tasks. I'm currently developing a job-application agent using **n8n** and **LLMs** like GPT to help streamline the job search process — for others and myself.
+-----
 
----
+## Tech Stack
 
-## 💻 Technical Focus
+**Languages:** Python, C++, Java, JavaScript/TypeScript, C, Bash  
+**Backend:** FastAPI, Node.js, REST APIs, PostgreSQL, MongoDB  
+**DevOps & Cloud:** Docker, GitHub Actions, Kubernetes (learning), AWS, GCP  
+**Systems & Robotics:** ROS, LiDAR, GPS, CAN bus, Linux, microcontrollers  
+**Frontend:** React, Tailwind CSS, HTML/CSS  
+**Tools:** Git, Jira, n8n, LLM integrations
 
-- 🔧 **Backend**: Python (FastAPI), Java, Bash, C  
-- 🌐 **Frontend**: JavaScript, React, Tailwind CSS, HTML/CSS  
-- ☁️ **Cloud/DevOps**: AWS (learning), Docker, GitHub Actions  
-- 🧠 **Systems Programming**: Schedulers, memory tracking, and process monitoring in C and Bash  
-- 🤖 **AI Workflows**: No-code agents with **n8n**, LLM integrations, automation pipelines  
+-----
 
----
+## Featured Projects
 
-## 🌟 Featured Projects
+### [Linux Monitoring Service](https://github.com/malykasardar/Systems-Programming-Final-Project--Linux-Monitoring-Service)
 
-### 🔹 [ClientWebAPP – Ghanada Inc](https://github.com/malykasardar/ClientWebAPP-GhanadaInc)  
-Custom business website deployed with Netlify and GoDaddy.
+Python-based system health monitoring and alerting tool built for Linux environments. Covers log monitoring, memory tracking, and process control.
 
-### 🔹 [CloudBug Tracker](https://github.com/malykasardar/cloudbug-tracker-)  
-Bug-tracking system built with FastAPI and PostgreSQL.
+### [CloudBug Tracker](https://github.com/malykasardar/cloudbug-tracker-)
 
-### 🔹 [Roam Inn Web App](https://github.com/malykasardar/Roam-Inn-WebApp-)  
-Hotel booking interface with a responsive JavaScript frontend.
+Bug-tracking system with a FastAPI backend and PostgreSQL. Designed around RESTful API patterns and clean data modeling.
 
-### 🔹 [Systems Programming Toolkit](https://github.com/malykasardar/Systems-Programming-Final)  
-A set of Linux tools for log monitoring, memory tracking, and process control in C and Bash.
+### [Autonomous Vehicle Stack — Ontario Tech Research](https://github.com/malykasardar)
 
-### 🔹 [WarCards Swift Game](https://github.com/malykasardar/WarcardsSwift)  
-Turn-based card game built with Swift and Xcode, featuring an AI opponent and clean UI design.
+Contributed to a modular ROS-based autonomous vehicle stack. Worked across sensor integration (LiDAR, GPS), inter-process communication, and vehicle control logic in Python and C++. Same codebase deployed across multiple vehicle platforms.
 
----
+### [Job Search Automation Agent](https://github.com/malykasardar)
 
-## 📚 Currently Learning
+AI-powered job application agent built with n8n and LLM integrations. Automates discovery, filtering, and outreach steps in the job search pipeline.
 
-- ☁️ Cloud infrastructure (AWS & Docker)  
-- ⚙️ System design & scalable backend architecture  
-- 🔁 CI/CD pipelines & deployment automation  
-- 🤖 Robotics with mBot Neo & CyberPi  
-- 🧩 Building AI agents with **n8n** + LLMs  
+### [ClientWebAPP — Ghanada Inc](https://github.com/malykasardar/ClientWebAPP-GhanadaInc)
 
----
+Production business website deployed via Netlify and GoDaddy for a real client.
 
-## 📬 Let’s Connect
+-----
 
-- 📩 **Email**: malyka.sardar@ontariotechu.net  
-- 💼 **LinkedIn**: [linkedin.com/in/malykasardar](https://linkedin.com/in/malykasardar)  
-- 🌐 **Portfolio**: [malykasardar.netlify.app](https://malykasardar.netlify.app)  
+## Currently Building
 
----
+- Kubernetes hands-on projects (local cluster deployments, Helm charts)
+- CI/CD pipelines with GitHub Actions
+- Expanding cloud infrastructure knowledge on Azure and AWS
 
-Thanks for stopping by — let’s build something impactful! 💡🌱
+-----
+
+## Experience Highlights
+
+**Researcher — Ontario Tech University (Autonomous Systems Lab)**  
+Built and maintained a modular ROS-based autonomous vehicle stack in Python and C++. Integrated LiDAR, GPS, and CAN bus sensors. Stack was designed to be vehicle-agnostic and redeployed across multiple platforms.
+
+**Software Engineering Intern — Arcelius Consulting**  
+Worked on Salesforce Marketing Cloud integrations and internal tooling automation.
+
+-----
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/malyka-sardar-6299441a2](https://linkedin.com/in/malyka-sardar-6299441a2)
+- **Portfolio:** [malykasardar.netlify.app](https://malykasardar.netlify.app)
+- **Email:** [malyka.sardar@ontariotechu.net](mailto:malyka.sardar@ontariotechu.net)
